@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* MOBILE RESPONSIVE FIX */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 70px !important;
+  }
+  .sidebar .label {
+    display: none !important;
+  }
+  .main-content {
+    margin-left: 70px !important;
+  }
+}
+
+/* Transition Smooth */
+* {
+  transition: all 0.25s ease-in-out;
+}
+
+/* Scroll style */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3b82f6;
+  border-radius: 6px;
+}
