@@ -1,6 +1,6 @@
 # Buku Tamu Digital - Multi-Tenant
 
-Proyek ini merupakan aplikasi **Buku Tamu Digital Multi-Tenant** yang dikembangkan selama masa program magang 6 bulan sebagai **Software Engineer / Fullstack Developer** di **PT LSKK (Lembaga Sistem Komunikasi Kabel)**. 
+Proyek ini merupakan aplikasi **Buku Tamu Digital Multi-Tenant** yang dikembangkan selama masa program magang 6 bulan sebagai **Software Engineer / Fullstack Developer** di **PT LSKK (Langgeng Sejahtera Kreasi Komputasi)**. 
 
 Aplikasi ini dirancang untuk dapat digunakan oleh banyak instansi atau organisasi sekaligus (*multi-tenant*) secara mandiri, efisien, terisolasi, dan aman.
 
